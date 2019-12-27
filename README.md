@@ -1,1 +1,1 @@
-# mongodb_standardized_connect
+When I am trying to use pymongo to connect the mongodb, I cannot authenticate into mongodb -"auth failed" while my company Mongodb version is 3.4.21. I research and find that many people have the same problem as me. So I decide to solve the problem that "auth failed" occured when using pymongo to connect the Mongodb.
